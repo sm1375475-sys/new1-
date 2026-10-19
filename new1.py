@@ -3,4 +3,4 @@ class student:
         self.name=name
         self.id=id
         self.grade=grade
-        
+print("hello")        
