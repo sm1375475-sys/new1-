@@ -22,5 +22,5 @@ class graduatestudent(student):
         print("graduate student")
         super().display_info()
         print("program titel:", self.program_title)    
-        print ("hello")        
+           
                   
